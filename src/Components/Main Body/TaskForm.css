@@ -1,0 +1,20 @@
+.wraper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 12px;
+}
+.objects {
+  padding: 10px;
+}
